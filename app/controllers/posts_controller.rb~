@@ -1,6 +1,5 @@
 class PostsController < ApplicationController
   ###################
-  #modifieds
   # GET /posts
   # GET /posts.json
   def index
